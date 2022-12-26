@@ -1,2 +1,3 @@
-# Outputs-2022
-Rework of Outputs from project &lt;Ssang-Cha-Ssang-Jo> @ ace, Buenos Aires
+# *Outputs* (2022)
+Rework of *Outputs* from the project [*Ssang-Cha-Ssang-Jo*](https://github.com/meek-as-a-lamb/Ssang-Cha-Ssang-Jo-2022) @ ace, Buenos Aires
+
